@@ -32,5 +32,12 @@ def system_name_and_bit_info():
 if islem == 1:
 	system_name_and_bit_info()
 	
-elif == 2:
+elif islem == 2:
 	sys.exit()
+
+else:
+	if islem != 1 and 2 and 3 and 4:  
+		print star
+		hata_mesaji = "Gerçersiz işlem numarsı girdiniz. Tekrar deneyin.";
+		print hata_mesaji
+		print star
