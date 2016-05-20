@@ -20,9 +20,9 @@ islemler_ico = """
 (2) ÇIKIŞ
 """
 
-print islemler_ico
-
 print info_ico
+
+print islemler_ico
 
 islem = input("Yapılcak işlem numarasını giriniz : ")
 
