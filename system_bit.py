@@ -15,6 +15,13 @@ info_ico = """
 # - 64 bit Windows 	| ('64bit', 'WindowsPE') -#
 # ------------------------------------------------#
 """
+islemler_ico = """
+(1) BUL
+(2) ÇIKIŞ
+"""
+
+print islemler_ico
+
 print info_ico
 
 islem = input("Yapılcak işlem numarasını giriniz : ")
